@@ -1,6 +1,8 @@
 # ttslicenses
 Build scripts and templates for ttslicenses. The ttslicenses application uses https://snipeitapp.com/download.
 
+Documentation located here: https://snipe-it.readme.io/docs
+
 # Templates
 The People.csv is used for importing users. At this point, we are only using the first three fields. First Name, Last Name, and User Name. User Name is first.last. 
 
