@@ -1,0 +1,7 @@
+---
+applications:
+- name: ttslicenses
+  host: ttslicenses
+  memory: 256M
+  health-check-type: none
+  route: ttslicenses.app.cloud.gov:443
