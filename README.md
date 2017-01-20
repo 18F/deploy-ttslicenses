@@ -13,6 +13,6 @@ The manifest.yml is required by CloudFoundry.
 
 Following deployment, the following commands need to be run: 
 
-php artisan config:clear
-php artisan migrate
-php artisan view:clear
+- php artisan config:clear
+- php artisan migrate
+- php artisan view:clear
