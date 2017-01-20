@@ -7,7 +7,7 @@ The People.csv is used for importing users. At this point, we are only using the
 # Scripts
 The build.sh script contains all of the commands to deploy a new docker instance. All of the database connection information has been removed and wil need to be popluated before it is run. 
 
-The manifest.yml is required by CloudFoundry. 
+The manifest.yml is required by CloudFoundry for a successful deployment. 
 
 # Post Deployment
 
